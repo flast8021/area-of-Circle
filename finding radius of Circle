@@ -1,0 +1,14 @@
+public class AreaOfCircle
+{
+    public static void main(String[] args)
+    {
+        final double PI = 3.141592653589793238;
+        double radius;
+        double area;
+        //Assigning its radius
+        radius = 20;
+        area = radius*radius*PI;
+        
+        System.out.format("Radius of a circle is %.2f" , area );
+    }
+}
