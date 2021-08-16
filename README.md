@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Usman.
-- 👀 My intrest & passion in technology urged me to be learn about Computers ...
+- 👀 My intrest in technology passionated me to be learn about Computers ...
 - 💞️ I’m doing my Bachelors in Computer Science & i'll be putting my work up on github.
 
 <!---
